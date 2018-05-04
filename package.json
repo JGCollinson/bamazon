@@ -1,0 +1,27 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamazon",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jgcollinson/bamazon.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "J Garrett Collinson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgcollinson/bamazon"
+  },
+  "homepage": "https://github.com/jgcollinson/bamazon",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "mysql": "^2.15.0",
+    "inquirer": "^5.2.0"
+  }
+}
